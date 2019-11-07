@@ -1,1 +1,1 @@
-## プログラミングコンテストチャレンジ[第２版]のpythonソースコードです。
+## algorithm_practice
